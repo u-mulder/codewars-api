@@ -11,7 +11,7 @@ class UserParameterBag extends BaseParameterBag
 {
     /**
      * UserParameterBag constructor.
-     * @param array $username
+     * @param string $username
      */
     public function __construct($username)
     {
